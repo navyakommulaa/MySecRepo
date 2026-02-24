@@ -1,2 +1,3 @@
 New file for git
-Another line added in this file
+
+Third line added
